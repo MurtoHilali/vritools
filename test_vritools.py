@@ -70,6 +70,5 @@ class TestVRITools(unittest.TestCase):
                 self.assertEqual(mutation.concise_format(), concise)
                 self.assertEqual(mutation.concise_format(as_tuple=True), concise_tuple)
 
-
 if __name__ == '__main__':
     unittest.main()
