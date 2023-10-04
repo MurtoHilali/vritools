@@ -1,0 +1,39 @@
+### 1. **Conservation Score Calculation:**
+   - **Problem:** Calculating the conservation score of residues across various species or homologous proteins.
+   - **Tool Idea:** A tool that calculates and visualizes the conservation scores of residues, especially focusing on variant residues.
+
+### 2. **PDB Structure Retrieval:**
+   - **Problem:** Fetching and handling Protein Data Bank (PDB) structures for specific proteins.
+   - **Tool Idea:** A tool to download PDB files given a protein ID and possibly extract relevant structural information.
+
+### 3. **Mapping Variants to Structures:**
+   - **Problem:** Mapping the variant residues to 3D protein structures.
+   - **Tool Idea:** A tool that maps the variant residues to the corresponding residues in the PDB structure.
+
+### 4. **PPI Interface Analysis:**
+   - **Problem:** Identifying and analyzing the residues at the PPI interface.
+   - **Tool Idea:** A tool that identifies and visualizes the residues at the PPI interface, possibly highlighting the variant residues.
+
+### 5. **Protein Stability Prediction:**
+   - **Problem:** Predicting the impact of variant residues on protein stability.
+   - **Tool Idea:** A tool that predicts the change in stability (ΔΔG) upon mutation using various algorithms or models.
+
+### 6. **Visualizing Variants on 3D Structures:**
+   - **Problem:** Visualizing variant residues on 3D protein structures.
+   - **Tool Idea:** A tool that allows users to visualize variant residues on 3D structures, possibly with different color codes based on their impacts.
+
+### 7. **Extracting Domain Information:**
+   - **Problem:** Extracting domain information of proteins and identifying if variant residues fall within any functional domain.
+   - **Tool Idea:** A tool that fetches domain information and identifies if variants are located within these domains.
+
+### 8. **Protein Feature Extraction:**
+   - **Problem:** Extracting various physicochemical properties and features of proteins.
+   - **Tool Idea:** A tool that calculates and extracts various protein features, such as hydrophobicity, charge, etc., especially focusing on the region around variant residues.
+
+### 9. **Automated Literature Retrieval:**
+   - **Problem:** Retrieving literature relevant to specific variant residues and their impacts.
+   - **Tool Idea:** A tool that automatically fetches literature related to the variant residues, providing insights into previously studied impacts.
+
+### 10. **Population Frequency Data Retrieval:**
+   - **Problem:** Fetching population frequency data for variant residues.
+   - **Tool Idea:** A tool that retrieves allele frequency data from various databases for specific variant residues.
